@@ -79,7 +79,7 @@ function Latihan10() {
 
   return (
     <div>
-      <h1>Latihan 9: Student Directory</h1>
+      <h1>Student Directory</h1>
       <br /> <br />
       <section aria-labelledby="form-title">
         <h2 id="form-title">Tambah Mahasiswa</h2>
